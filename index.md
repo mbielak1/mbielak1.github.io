@@ -6,6 +6,7 @@ Jenkins to open-source’owe narzędzie pozwalające zautomatyzować wytwarzanie
 
 ## Projekt ogólny
 ![Image](https://github.com/mbielak1/mbielak1.github.io/blob/9bfe9e540b4245e57496c243707763ea9580b151/Obraz1.png)
+<br />
 Łatwe w użycie. Dobra opcja do zrobienia automatyzacji na szybko. Rozbudowany interfejs graficzny pozwala się przeklikać przez wszystkie opcje.
 
 ## Pipeline
