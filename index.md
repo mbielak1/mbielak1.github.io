@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+# Header 1 Jenkins
+
+Jenkins to open-source’owe narzędzie pozwalające zautomatyzować wytwarzanie oprogramowania. Jego główną funkcjonalnością jest tworzenie pipeline’ów dla ciągłej integracji, ciągłego dostarczania i ciągłego wdrażania. Projekty w Jenkinsie można tworzyć na kilka sposobów.
+
 You can use the [editor on GitHub](https://github.com/mbielak1/mbielak1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
