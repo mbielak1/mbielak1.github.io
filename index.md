@@ -26,6 +26,3 @@ Opcja dla dużych projektów. Umożliwia te same opcje co zwykły pipeline, ale 
 Dużą zaleta Jenkinsa jest możliwość dostosowania do naszych potrzeb. Można zainstalować pluginy do wielu znanych narzędzi np. SonarQube, Nexus repository. Po zainstalowaniu pluginu dodatkowe opcje pojawiają się za równo dla projektu ogólnego w postaci okienka do przeklikania jak i dla pipeline’ów jako komenda do wywołania.
 
 
-
-
-[Link](url) and ![Image](src)
