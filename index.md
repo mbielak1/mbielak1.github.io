@@ -5,7 +5,7 @@
 Jenkins to open-source’owe narzędzie pozwalające zautomatyzować wytwarzanie oprogramowania. Jego główną funkcjonalnością jest tworzenie pipeline’ów dla ciągłej integracji, ciągłego dostarczania i ciągłego wdrażania. Projekty w Jenkinsie można tworzyć na kilka sposobów.
 
 ## Projekt ogólny
-![Image](https://github.com/mbielak1/mbielak1.github.io/Obraz1.png)
+![Image](https://github.com/mbielak1/mbielak1.github.io/blob/9bfe9e540b4245e57496c243707763ea9580b151/Obraz1.png)
 Łatwe w użycie. Dobra opcja do zrobienia automatyzacji na szybko. Rozbudowany interfejs graficzny pozwala się przeklikać przez wszystkie opcje.
 
 ## Pipeline
